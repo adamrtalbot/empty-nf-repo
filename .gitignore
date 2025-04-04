@@ -1,0 +1,23 @@
+# Nextflow specific
+.nextflow/
+.nextflow.log*
+work/
+.DS_Store
+results/
+.nextflow/
+trace.txt*
+timeline.html*
+report.html*
+dag.dot*
+dag.html*
+.cache/
+
+# Java / Gradle
+.gradle/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
